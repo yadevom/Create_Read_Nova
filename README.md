@@ -1,7 +1,8 @@
 # crud_angula_spring_mysql
 
 ## Directorio estudianteBack
-Encontrara el proyecto creado Spring Boot, conectado a la BD.
+Backend realizado mediante el framework Spring Boot, corre en el Pto. 8080.
+Gesto de Base de datos utilizado MySQL.
 
 1. Realizar los cambios de configuracion conexion a BD en "aplication.properties"
 2. Script inicial para crear BD
@@ -52,10 +53,10 @@ Consultar estudiantes
 ```
 GET - http://localhost:8080/api/estudiantes
 ```
-## Directorio estudianteBack
-1. En primera instancia ejecutar dentro del directorio en terminal la instalacion de la 
-   
-   carpeta node
+## Directorio estudianteFront
+Frontend realizado mediante el framework Angular, corre en el Pto. 4200.
+
+1. En primera instancia ejecutar dentro del directorio en terminal la creacion de la carpeta "node"
 
 ```
 npm install
