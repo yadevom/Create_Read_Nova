@@ -2,7 +2,7 @@
 
 ## Directorio estudianteBack
 Backend realizado mediante el framework Spring Boot, corre en el Pto. 8080.
-Gesto de Base de datos utilizado MySQL.
+Gestor de Base de datos utilizado MySQL.
 
 1. Realizar los cambios de configuracion conexion a BD en "aplication.properties"
 2. Script inicial para crear BD
