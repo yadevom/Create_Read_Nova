@@ -1,4 +1,4 @@
-# crud_angula_spring_mysql
+# Create and Reade Angular, Spring Boot & MySQL
 
 ## Directorio estudianteBack
 Backend realizado mediante el framework Spring Boot, corre en el Pto. 8080.
